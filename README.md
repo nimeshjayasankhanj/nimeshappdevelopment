@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nimesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nimeshappdevelopment/nimeshappdevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi , It's Nimesh 👋
+💬 Software Engineer @SwivelTech
+👯 I’m looking to collaborate on freelance projects.
+💬 Ask me about Javacript and tech related sttuffs
+⚡ Fun fact: Spend 2 hrs of listening songs , learn new tech articles and cricket freak.
